@@ -12,8 +12,7 @@ You can choose any champion in this mode, even if you haven't unlocked the champ
 
 # Screenshots
 
-https://github.com/user-attachments/assets/85a56bee-529c-461f-b896-b3eb27cdea4d
-
+https://github.com/user-attachments/assets/d3a44064-1247-4698-9c0f-4d2c8e47692a
 
 # Easter Egg
 
