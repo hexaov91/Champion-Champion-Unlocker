@@ -1,4 +1,4 @@
-# 英雄聯盟 新PVE模式：Sparm 全英雄解鎖小程式
+# 英雄聯盟 新PVE模式：Swarm 全英雄解鎖小程式
 
 # README.md
 - en_US [English](README.en_US.md)
