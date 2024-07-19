@@ -18,3 +18,5 @@ https://github.com/user-attachments/assets/d3a44064-1247-4698-9c0f-4d2c8e47692a
 # 小彩蛋
 
 選擇非指定id英雄(如悠咪)可列隊並進入遊戲，但開局就會被踹出來了，可以拿來惡整你的朋友👀
+
+![image](https://github.com/user-attachments/assets/a99ecbb0-2503-4bd8-bd31-fb80da1d0ed8)
