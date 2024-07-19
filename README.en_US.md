@@ -18,4 +18,4 @@ https://github.com/user-attachments/assets/d3a44064-1247-4698-9c0f-4d2c8e47692a
 
 Selecting an unspecified ID champion (like Yuumi) allows you to queue up and enter the game, but you will be kicked out at the start. You can use this to prank your friends 👀
 
-![image](https://github.com/user-attachments/assets/a9daa7e8-e4ef-46a4-b611-d51b2439a106)
+![image](https://github.com/user-attachments/assets/a99ecbb0-2503-4bd8-bd31-fb80da1d0ed8)
